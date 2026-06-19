@@ -1,6 +1,6 @@
 # Hi, I'm M H Devanarayanan Nampoothiri
 
-🎓 B.Tech Computer Science Engineering Graduate
+🎓 B.Tech Computer Science Engineering Student
 
 💡 Interested in:
 - Artificial Intelligence
